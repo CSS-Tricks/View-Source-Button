@@ -1,0 +1,18 @@
+/*
+	 CSS-Tricks Example
+	 by Chris Coyier
+	 http://css-tricks.com
+*/
+
+* { margin: 0; padding: 0; }
+body { font: 14px Georgia, serif; }
+
+article, aside, figure, footer, header, hgroup,
+menu, nav, section { display: block; }
+
+#page-wrap { width: 960px; margin: 60px auto; }
+
+a img { border: 0; }
+
+h1 { font: bold 32px Helvetica, Arial, Sans-Serif; letter-spacing: -1px; margin: 50px 0 20px 0; }
+p { margin: 0 0 20px 0; }
