@@ -1,0 +1,3 @@
+# View-Source-Button ([Article](http://css-tricks.com/make-a-view-source-button/) / [Demo](http://css-tricks.com/examples/ViewSourceButton/))
+
+The idea that first came to mind was to use CSS3's :target pseudo class. We talked about these a while back while exporting CSS3 tabs. The idea is to have a link that links to the #source-code hash tag. That puts #source-code at the end of the URL, and allows the :target selector to match and apply styling.
